@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"net/http"
 	"time"
-	//"math/rand"
+	"math/rand"
 )
 
 const (
